@@ -1,0 +1,10 @@
+= Laravel Vue application
+:toc:
+
+
+== Installation
+
+1. Install `composer install --ignore-platform-reqs`
+2. Serve: `php artisan serve`
+3. Schema Migrations: `php artisan migrate`
+4. Update: `composer update --ignore-platform-reqs`
