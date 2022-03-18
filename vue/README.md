@@ -15,5 +15,6 @@ npm init vite vue
 npm i -S vuex@next         
 npm i -D tailwindcss postcss autoprefixer 
 npx tailwind init -p
-npm i @headless/vue @tailwindcss/forms -S
+npm i @headlessui/vue @tailwindcss/forms -S
+npm i @heroicons/vue -S
 ```
